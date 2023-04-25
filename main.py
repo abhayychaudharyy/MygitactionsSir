@@ -1,6 +1,6 @@
 def hello():
     print("hi hitesh hks! Hello DevOps")
-def bye():
+def by():
     print("bye hitesh")
 
 
